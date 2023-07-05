@@ -1,6 +1,2 @@
 # Hello World
- Primeiro repostório versionado
- 
- Repositório criado durante uma aula
- 
-Acabei de adicionar no site, achei poggers
+Primeiro **Wello World** no GitHub, utilizando o *GitHubDesktop*
