@@ -1,3 +1,3 @@
 # Hello World
  Primeiro repostório versionado
- Repositório criado dirante uma aula
+ Repositório criado durante uma aula
